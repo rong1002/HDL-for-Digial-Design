@@ -2,7 +2,7 @@
 NCKU 2024 Spring Hardware Description Language for Digital Design
 
 ## Time
-- 2021.02.22 - 2021.06.13
+- 2024.02.22 - 2024.06.13
 
 ## Labs
 - Lab01: Install ModelSim
